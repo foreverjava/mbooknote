@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人备忘录.md",
+                "file": "学习笔记/编码，加密，hash 序列化和字符集/编码，加密，hash 序列化和字符集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "个人备忘录"
+              "title": "编码，加密，hash 序列化和字符集"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人备忘录.md",
+                "file": "学习笔记/编码，加密，hash 序列化和字符集/编码，加密，hash 序列化和字符集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "个人备忘录 的反向链接列表"
+              "title": "编码，加密，hash 序列化和字符集 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "个人备忘录.md",
+                "file": "学习笔记/编码，加密，hash 序列化和字符集/编码，加密，hash 序列化和字符集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "个人备忘录 的出链列表"
+              "title": "编码，加密，hash 序列化和字符集 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人备忘录.md",
+                "file": "学习笔记/编码，加密，hash 序列化和字符集/编码，加密，hash 序列化和字符集.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "个人备忘录 的大纲"
+              "title": "编码，加密，hash 序列化和字符集 的大纲"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 695.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +182,44 @@
   "active": "891cfb9b72035a08",
   "lastOpenFiles": [
     "个人备忘录.md",
+    "学习笔记/42.组件化、插件化和热更新.md",
+    "学习笔记/日常记录（备忘录）/备忘录.md",
+    "学习笔记/日常记录（备忘录）",
+    "学习笔记/编码，加密，hash 序列化和字符集/编码，加密，hash 序列化和字符集.md",
+    "学习笔记/编码，加密，hash 序列化和字符集",
+    "学习笔记/kotlin基础/静态函数、注解、单例.md",
+    "学习笔记/kotlin基础/类型系统、setter和getter、构造器.md",
+    "学习笔记/kotlin基础/构造、数据类及反编译.md",
+    "学习笔记/kotlin基础/嵌套函数、函数简化和参数默认值、扩展函数.md",
+    "学习笔记/kotlin基础/Kotlin 空安全设计.md",
+    "学习笔记/kotlin基础/Kotlin 介绍及类、方法、变量的定义.md",
+    "学习笔记/kotlin基础/internal、自动转化及其他.md",
+    "学习笔记/kotlin基础/inline、函数类型、reified.md",
+    "学习笔记/kotlin基础",
+    "学习笔记/https/https.md",
+    "学习笔记/https",
+    "学习笔记/http/登录授权.md",
+    "学习笔记/http/TCP IP 协议族.md",
+    "学习笔记/http/Http 基础介绍.md",
+    "学习笔记/http/Header和body.md",
+    "学习笔记/http",
+    "学习笔记/Git 深入之核心概念：一切皆引用/git 深入理解原理.md",
+    "学习笔记/Git 深入之核心概念：一切皆引用",
+    "学习笔记/Compose/Compose基础知识之修饰符列表.md",
+    "学习笔记/Compose/Compose 中的三个基本标准布局元素.md",
+    "学习笔记/Compose",
+    "学习笔记",
+    "附件/Pasted image 20241130232910.png",
+    "附件/Pasted image 20241130225836.png",
+    "附件/Pasted image 20241130225811.png",
+    "附件/Pasted image 20241130224825.png",
+    "附件/Pasted image 20241015233545.png",
+    "附件/Pasted image 20241015232634.png",
+    "附件/Pasted image 20241015232408.png",
+    "附件/Pasted image 20241015230501.png",
+    "附件/Pasted image 20241009214103.png",
+    "附件/Pasted image 20241009213809.png",
+    "附件",
     "欢迎.md"
   ]
 }
