@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ccdf5a158f286f28",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0ace2f5e3d047562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "个人备忘录.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "个人备忘录"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ace2f5e3d047562",
+  "active": "891cfb9b72035a08",
   "lastOpenFiles": [
     "个人备忘录.md",
     "欢迎.md"
